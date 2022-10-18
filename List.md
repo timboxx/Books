@@ -1,0 +1,1 @@
+Michael Barr - Embedded C Coding Standard source:https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard
